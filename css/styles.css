@@ -1,0 +1,30 @@
+body {
+  font-size: 1.2em;
+}
+
+li {
+  margin-left: 200px;
+}
+div.tabs > a, div.tabs > button {
+  margin-right: 10px;
+  font-size: 1.2em;
+}
+
+div.tabs {
+  margin-bottom: 50px;
+  margin-left: 200px;
+}
+
+.activeTab {
+  font-weight: bold;;
+}
+
+.loading-icon {
+  position: absolute;
+  left: 20%;
+  top: 220px;
+}
+
+body {
+	background-color: white;
+}
